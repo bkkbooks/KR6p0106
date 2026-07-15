@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6p0106/v1
 canonical_location: https://kanripo.org/bkk/KR6p0106/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 淨土隨學
   identifiers:
@@ -21,13 +21,13 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6p0106_000.yaml, hash: 'sha256:9a07fe90fcf96ad5db1e412223e9d9d7180bde7153cf340724bd42a7c994e75c'}
-  - {seq: 1, filename: KR6p0106_001.yaml, hash: 'sha256:53f297c560268991d67bf7436e4801a180f6ecf35f1382c64e9cfa2ed99ac19a'}
-  - {seq: 2, filename: KR6p0106_002.yaml, hash: 'sha256:17b39ef3ecf93a96a697d2a17fe978080c9d48d0a238a3f276458ea2c2f2f6e9'}
+  - {seq: 0, filename: KR6p0106_000.yaml, hash: 'sha256:ebfced314697ffa762345732c77f11320f372481b5cb04070a8daf228eca13ba'}
+  - {seq: 1, filename: KR6p0106_001.yaml, hash: 'sha256:1e1c8f6594b97035ed95168757ae9fd04a3c7d72fab196b81e815888ff50df40'}
+  - {seq: 2, filename: KR6p0106_002.yaml, hash: 'sha256:4f30f1e9986101f5a915498b663db3788cdeed1f2fb7077f033ed1ca2b294c99'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6p0106_000.markers.yaml, hash: 'sha256:d1009ea4d3bdfd256842c1117f46ef52a502646dbd3089c38e433ee19befaf80'}
-  - {seq: 1, role: markers, filename: assets/KR6p0106_001.markers.yaml, hash: 'sha256:2e0a3a53288407c8578070dc445357e7a6bc7a95842d9f9be5c5867f588cadef'}
-  - {seq: 2, role: markers, filename: assets/KR6p0106_002.markers.yaml, hash: 'sha256:0729eceb431a6e658f341c208b9d9ea06e6f6dba2d2cfc4c2a653a77d82cbaf2'}
+  - {seq: 0, role: markers, filename: assets/KR6p0106_000.markers.yaml, hash: 'sha256:fc69e1282092e158028a3a959f671a1cee181b0b4e26ec41651a32761b6a15cb'}
+  - {seq: 1, role: markers, filename: assets/KR6p0106_001.markers.yaml, hash: 'sha256:ce4934ab572894409c709a454cd22447235da705c94e5c0f8bc750a72752cff0'}
+  - {seq: 2, role: markers, filename: assets/KR6p0106_002.markers.yaml, hash: 'sha256:855e1fa0853bc3fc10825fadc818aadc505b341ca8e08f806e34465ac0a8a2ca'}
 table_of_contents:
 - ref:
     seq: 0
@@ -1279,4 +1279,7 @@ table_of_contents:
   label: No. 1187-C 往生要關附
   type: mulu
   level: 1
-hash: sha256:b8a2331483c9508c0471632ef6967d567818a23a2f0b3809f1fbfa742cd8ebfa
+hash: sha256:6831f1d967ed3cabe2979e233f03ec9288c604ee09738fb8310724828b32176b
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
