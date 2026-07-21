@@ -21,11 +21,11 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6p0106_000.yaml, hash: 'sha256:ebfced314697ffa762345732c77f11320f372481b5cb04070a8daf228eca13ba'}
+  - {seq: 0, filename: KR6p0106_000.yaml, hash: 'sha256:5c7a8a588ee1fbfdd86e15511ddf8a36b1403b16f8f2c78b65fc1aa8d82fc84e'}
   - {seq: 1, filename: KR6p0106_001.yaml, hash: 'sha256:1e1c8f6594b97035ed95168757ae9fd04a3c7d72fab196b81e815888ff50df40'}
   - {seq: 2, filename: KR6p0106_002.yaml, hash: 'sha256:4f30f1e9986101f5a915498b663db3788cdeed1f2fb7077f033ed1ca2b294c99'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6p0106_000.markers.yaml, hash: 'sha256:fc69e1282092e158028a3a959f671a1cee181b0b4e26ec41651a32761b6a15cb'}
+  - {seq: 0, role: markers, filename: assets/KR6p0106_000.markers.yaml, hash: 'sha256:cd49e3c96ffb7cc0592f5fdd4252bbba087d41ed7547795642bc326255bcc9cd'}
   - {seq: 1, role: markers, filename: assets/KR6p0106_001.markers.yaml, hash: 'sha256:ce4934ab572894409c709a454cd22447235da705c94e5c0f8bc750a72752cff0'}
   - {seq: 2, role: markers, filename: assets/KR6p0106_002.markers.yaml, hash: 'sha256:855e1fa0853bc3fc10825fadc818aadc505b341ca8e08f806e34465ac0a8a2ca'}
 table_of_contents:
@@ -33,7 +33,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6p0106_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 1187-A 淨土隨學題詞
@@ -43,7 +43,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6p0106_X_000-mulu-2
     span:
-    - front
+    - body
     - 323
     - 323
   label: 淨土隨學目錄
@@ -1279,7 +1279,7 @@ table_of_contents:
   label: No. 1187-C 往生要關附
   type: mulu
   level: 1
-hash: sha256:6831f1d967ed3cabe2979e233f03ec9288c604ee09738fb8310724828b32176b
+hash: sha256:b8e0f4df80741fbba9597f48aa4b7ac0bcabb6bb73b2aa89e0716286b0f036b9
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
